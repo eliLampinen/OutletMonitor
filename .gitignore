@@ -1,0 +1,4 @@
+configFile.py
+items.json
+*_new_items.json
+__pycache__/
